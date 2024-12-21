@@ -46,10 +46,12 @@ With that implemented we can easily add custom page, html content and meta tags 
 ## Credits
 
 [Blesta Billing System](https://blesta.com/)
+
 [Rodrigo](https://www.blesta.com/forums/index.php?/topic/2943-blesta-32-351-how-to-make-static-pages-by-modifying-portal-plugin/)
-Tchelo
+
+[Tchelo](https://discordapp.com/users/316189596004384778)
 
 ## Questions and Help?
 
-Contact me at Discord (marcelopvn)
+Contact me at [Discord](https://discordapp.com/users/316189596004384778)
 
