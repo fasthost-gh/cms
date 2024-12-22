@@ -7,7 +7,7 @@ With that implemented we can easily add custom page, html content and meta tags 
 
 1. [Download](https://github.com/marcelo-pvn/blesta-static/archive/refs/heads/main.zip) the repository file.
 2. Extract the file on the same directory you installed Blesta.
-3. Rename the folder from **'blesta-static-main'** to only **'cms'**.
+3. Rename the folder from `blesta-static-main` to only `cms`.
 
 ## Configuring Blesta to work with our code
 
