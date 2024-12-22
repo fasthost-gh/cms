@@ -1,13 +1,13 @@
-# Using Blesta Billing as a CMS
+# Using Blesta Billing as your Website
 
-This repositoy was created for users that want to use the [Blesta Billing System](https://blesta.com/) as a main page and CMS.
+This repositoy was created for users that want to use the [Blesta Billing System](https://blesta.com/) as your website.
 With that implemented we can easily add custom page, html content and meta tags to them.
 
 ## How to Install
 
-1. [Download](https://github.com/fasthost-gh/cms/archive/refs/heads/main.zip) the repository file.
+1. [Download](https://github.com/marcelo-pvn/blesta-static/archive/refs/heads/main.zip) the repository file.
 2. Extract the file on the same directory you installed Blesta.
-3. Rename the folder from "cms-main" to only "cms".
+3. Rename the folder from "blesta-static-main" to only "cms".
 
 ## Configuring Blesta to work with our code
 
